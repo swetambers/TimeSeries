@@ -1,9 +1,9 @@
 # TimeSeries
-Jupyter notebook for Time Series Modeling.
+Jupyter notebook for Time Series Modeling
 
 #### Practical Time-Series Analysis
 
-This is the currently code repository for Practical Time-Series Analysis, published by Packt. The repo also aims to include more advanced prediction modeling used in time series. Stay tuned!
+This is currently code repository for Practical Time-Series Analysis, published by Packt. The repo also aims to include more advanced prediction modeling used in time series. Stay tuned!
 
 #### About the Practical Time-Series Analysis Book
 
